@@ -22,18 +22,18 @@ This project is a simple reddit clone with a database backend. I love using redd
 <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/481907/images/2433061/UI_Shield.png" alt="alt text" width="25%" height="25%">
 
 
-How it works
+## How it works
 
-A user can see all of the current posts, and search by time posted, subject line, and the amount of votes it has.
+# A user can see all of the current posts, and search by time posted, subject line, and the amount of votes it has.
 <img src="https://github.com/TheRickestRick/Portfolio-reddit-clone/blob/master/Screen%20Shot%202018-07-17%20at%2011.36.04%20AM.png" alt="alt text">
 
-A user can also comment on a post, and see what other people had commented.
+# A user can also comment on a post, and see what other people had commented.
 <img src="https://github.com/TheRickestRick/Portfolio-reddit-clone/blob/master/Screen%20Shot%202018-07-17%20at%2011.36.26%20AM.png" alt="alt text">
 
-If you want to create your own post you can select the create new post drop down menu, and fill out each of the inputs
+# If you want to create your own post you can select the create new post drop down menu, and fill out each of the inputs
 <img src="https://github.com/TheRickestRick/Portfolio-reddit-clone/blob/master/Screen%20Shot%202018-07-17%20at%2011.37.36%20AM.png" alt="alt text">
 
-The new post will then be added to the feed, and all the other users can see it!
+# The new post will then be added to the feed, and all the other users can see it!
 <img src="https://github.com/TheRickestRick/Portfolio-reddit-clone/blob/master/Screen%20Shot%202018-07-17%20at%2011.38.24%20AM.png" alt="alt text">
 
 
