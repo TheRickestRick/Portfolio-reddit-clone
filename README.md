@@ -12,15 +12,20 @@ This project is an elegant reddit clone with a database backend. I love using re
 
 
 # Technologies
-<div align="center">
+<table>
+  <tr>
 <img src="https://res.cloudinary.com/teepublic/image/private/s--wQc63_dO--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1509564403/production/designs/2016815_1.jpg" alt="alt text" width="25%" height="25%">
-
+  </tr>
+   <tr>
 <img src="https://cdn-images-1.medium.com/max/649/1*NHFLjvPW2Yh5NqlCphMGTg.png" alt="alt text" width="25%" height="25%">
-
+  </tr>
+   <tr>
 <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="alt text" width="25%" height="25%">
-
+  </tr>
+   <tr>
 <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/481907/images/2433061/UI_Shield.png" alt="alt text" width="25%" height="25%">
-</div>
+  </tr>
+</table>
 
 ## How it works
 
