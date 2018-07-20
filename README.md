@@ -25,6 +25,9 @@ This project is an elegant reddit clone with a database backend. I love using re
    <th>
 <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/481907/images/2433061/UI_Shield.png" alt="alt text" ">
   </th>
+  <th>
+ <img src="https://gigaom.com/wp-content/uploads/sites/1/2012/07/postgres-mac-icon.jpg" alt="alt text">
+ </th>
 </table>
 
 ## How it works
